@@ -13,4 +13,6 @@ Download .md from https://github.com/justjavac/zhihu-trending-hot-questions
 put uv.py into all .md files directory.  
 python uv.py  
 *default only download the first question, remove the break to download all.*  
-用法是先下载存有问题链接的所有md文件，然后把uv.py放到同一目录下，再运行即可，默认只下载第一个问题的五条回答，可通过break语句控制。
+用法是先下载存有问题链接的所有md文件，然后把uv.py放到同一目录下，再运行即可，默认只下载第一个问题的五条回答，可通过break语句控制。  
+需要具体说明和交流请参阅我的博客文章：
+https://blog.csdn.net/weixin_43945848/article/details/130004546?spm=1001.2014.3001.5501
